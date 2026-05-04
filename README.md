@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 你好，我是ButOmit👋
+
+[一个尝试飞行的笨鸟。]
+
+## 🔧 技术栈与工具
+*   **语言：** 正在学习 Python / Java
+*   **工具：** Git, VS Code
+*   **其他：** 对后端开发/数据分析/AI感兴趣
+
+## 📈 GitHub 统计
+- 🌱 我目前正在学习基础Python知识与制作简单项目
+- 👯 我希望在...方面进行合作
+- 🤔 我希望获得关于的帮助
+
+## 📫 如何联系我
+*   **邮箱：** jonesmiya46@gmail.com
+
+## 🎯 当前目标
+1.  [ ] 完成一些简单的GitHub项目。
+2.  [ ] 建立个人技术博客。
+3.  [ ] 深入学习Python。
+
+---
+
+⭐️ *来自 ButOmit*
