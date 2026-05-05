@@ -1,5 +1,4 @@
-**## Hi there 👋
-
+#  Hi there 👋 你好！我是ButOmit☺️
 <!--
 **ButOmit/ButOmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  Hi there 👋 
-# 你好！我是ButOmit☺️
 
-一只正在尝试飞行的笨鸟。
+一个正在尝试飞行的笨鸟。
 
 ## 🔧 技术栈与工具
 *   **语言：** 正在学习 Python / Java
