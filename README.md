@@ -1,4 +1,4 @@
-## Hi there 👋
+**## Hi there 👋
 
 <!--
 **ButOmit/ButOmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 你好，我是ButOmit👋
+#  Hi there 👋 
+# 你好！我是ButOmit☺️
 
 一只正在尝试飞行的笨鸟。
 
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub 统计
 - 🌱 我目前正在学习基础Python知识与制作简单编程项目
-- 👯 我希望在...方面进行合作
 - 🥺 我希望获得关于代码学习、网站搭建、项目开发上的建议与帮助
 
 ## 📫 如何联系我
